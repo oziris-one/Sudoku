@@ -4,7 +4,11 @@
     <string name="app_name">Sudoku</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="one_button">1</string>
     <string name="two_button">2</string>
+=======
+    <string name="title_activity_test">TestActivity</string>
+>>>>>>> 21839307537faf382f6e13bd508e29c716d8a8cc
 
 </resources>

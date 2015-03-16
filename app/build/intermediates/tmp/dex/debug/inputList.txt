@@ -1,5 +1,0 @@
-/home/valeri/AndroidStudioProjects/Sudoku/app/build/intermediates/classes/debug
-/home/valeri/AndroidStudioProjects/Sudoku/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d767f90bff308147a6411bd8125119a582ccc1c1.jar
-/home/valeri/AndroidStudioProjects/Sudoku/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a293c319dce9ad367559a776b48a9034fa7a6f32.jar
-/home/valeri/AndroidStudioProjects/Sudoku/app/build/intermediates/pre-dexed/debug/classes-0eff0ea343ebdf187bd67ca2b6b32ff71325468d.jar
-/home/valeri/AndroidStudioProjects/Sudoku/app/build/intermediates/pre-dexed/debug/classes-1c4094c4951c1d488dae08c515cb9d1b20adfee0.jar
