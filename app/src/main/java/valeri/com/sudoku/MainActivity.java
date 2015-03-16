@@ -1,9 +1,11 @@
 package valeri.com.sudoku;
 
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -271,6 +273,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
             View child = gridLayout.getChildAt(t);
             child.setOnClickListener(new View.OnClickListener() {
+                @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
                 @Override
                 public void onClick(View v) {
                     if (my!=null && myText != null) {

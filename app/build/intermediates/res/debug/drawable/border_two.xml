@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <solid android:color="#3333AD" />
+    <stroke android:width="2dip" android:color="#000"/>
+</shape><!-- From: file:/home/valeri/AndroidStudioProjects/Sudoku/app/src/main/res/drawable/border_two.xml -->
