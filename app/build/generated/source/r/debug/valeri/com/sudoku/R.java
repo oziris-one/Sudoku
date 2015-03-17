@@ -1318,7 +1318,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f08002e;
         public static final int action_mode_bar_stub=0x7f08002d;
         public static final int action_mode_close_button=0x7f080020;
-        public static final int action_settings=0x7f08004f;
+        public static final int action_settings=0x7f080050;
         public static final int activity_chooser_view_content=0x7f080021;
         public static final int always=0x7f080016;
         public static final int beginning=0x7f080013;
@@ -1339,6 +1339,7 @@ containing a value of this type.
         public static final int first_row_linear_layout=0x7f080041;
         public static final int five_button=0x7f080046;
         public static final int four_button=0x7f080045;
+        public static final int grid=0x7f08004f;
         public static final int grid_layout=0x7f080040;
         public static final int home=0x7f080004;
         public static final int homeAsUp=0x7f08000d;
@@ -1414,8 +1415,9 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030015;
         public static final int abc_simple_dropdown_hint=0x7f030016;
         public static final int activity_main=0x7f030017;
-        public static final int support_simple_spinner_dropdown_item=0x7f030018;
-        public static final int text_view=0x7f030019;
+        public static final int activity_test=0x7f030018;
+        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int text_view=0x7f03001a;
     }
     public static final class menu {
         public static final int menu_main=0x7f0c0000;
@@ -1441,7 +1443,8 @@ containing a value of this type.
         public static final int app_name=0x7f0a0011;
         public static final int hello_world=0x7f0a0012;
         public static final int one_button=0x7f0a0013;
-        public static final int two_button=0x7f0a0014;
+        public static final int title_activity_test=0x7f0a0014;
+        public static final int two_button=0x7f0a0015;
     }
     public static final class style {
         /**  Customize your theme here. 

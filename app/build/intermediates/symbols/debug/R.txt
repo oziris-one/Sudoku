@@ -350,7 +350,7 @@ int id action_menu_presenter 0x7f080003
 int id action_mode_bar 0x7f08002e
 int id action_mode_bar_stub 0x7f08002d
 int id action_mode_close_button 0x7f080020
-int id action_settings 0x7f08004f
+int id action_settings 0x7f080050
 int id activity_chooser_view_content 0x7f080021
 int id always 0x7f080016
 int id beginning 0x7f080013
@@ -371,6 +371,7 @@ int id expanded_menu 0x7f080028
 int id first_row_linear_layout 0x7f080041
 int id five_button 0x7f080046
 int id four_button 0x7f080045
+int id grid 0x7f08004f
 int id grid_layout 0x7f080040
 int id home 0x7f080004
 int id homeAsUp 0x7f08000d
@@ -442,8 +443,9 @@ int layout abc_search_dropdown_item_icons_2line 0x7f030014
 int layout abc_search_view 0x7f030015
 int layout abc_simple_dropdown_hint 0x7f030016
 int layout activity_main 0x7f030017
-int layout support_simple_spinner_dropdown_item 0x7f030018
-int layout text_view 0x7f030019
+int layout activity_test 0x7f030018
+int layout support_simple_spinner_dropdown_item 0x7f030019
+int layout text_view 0x7f03001a
 int menu menu_main 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0a0000
 int string abc_action_bar_home_description_format 0x7f0a0001
@@ -465,7 +467,8 @@ int string action_settings 0x7f0a0010
 int string app_name 0x7f0a0011
 int string hello_world 0x7f0a0012
 int string one_button 0x7f0a0013
-int string two_button 0x7f0a0014
+int string title_activity_test 0x7f0a0014
+int string two_button 0x7f0a0015
 int style AppTheme 0x7f0b0000
 int style Base_TextAppearance_AppCompat 0x7f0b0001
 int style Base_TextAppearance_AppCompat_Body1 0x7f0b0002
